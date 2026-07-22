@@ -1,0 +1,804 @@
+{
+  "users": [
+    {
+      "id": "08b3fde3-672e-45e9-8c4c-795b2e91d4c0",
+      "name": "Mariana Azevedo",
+      "email": "mariana.azevedo@uol.com.br",
+      "phone": "(42) 93103-6268",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2025-09-10T22:39:37.398Z"
+    },
+    {
+      "id": "49a12f99-62fa-48f0-b6a3-cfa0d77f59cf",
+      "name": "Beatriz Freitas",
+      "email": "beatriz.freitas@yahoo.com.br",
+      "phone": "(98) 96429-1309",
+      "description": "Fã de música, livros e projetos open source.",
+      "createdAt": "2026-02-05T09:02:19.354Z"
+    },
+    {
+      "id": "84d0a054-4885-49e2-b689-21d0a7b4d799",
+      "name": "Murilo Gomes",
+      "email": "murilo.gomes@uol.com.br",
+      "phone": "(77) 95580-6348",
+      "description": "Fã de música, livros e projetos open source.",
+      "createdAt": "2025-10-28T05:36:16.285Z"
+    },
+    {
+      "id": "317f0e59-4372-4202-869f-af4392d3207b",
+      "name": "Rafael Pereira",
+      "email": "rafael.pereira@hotmail.com",
+      "phone": "(33) 95485-3110",
+      "description": "Entusiasta de automação e produtividade.",
+      "createdAt": "2024-07-14T04:52:41.768Z"
+    },
+    {
+      "id": "a77d4a8d-cce5-44bb-b802-119dc7f39194",
+      "name": "André Moraes",
+      "email": "andre.moraes@hotmail.com",
+      "phone": "(99) 97258-2019",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2025-03-11T12:53:23.689Z"
+    },
+    {
+      "id": "7c766b4c-620a-49a8-949a-ab527ea7da5b",
+      "name": "Matheus Gomes",
+      "email": "matheus.gomes@yahoo.com.br",
+      "phone": "(24) 98555-6232",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2025-04-23T11:52:48.607Z"
+    },
+    {
+      "id": "7f321434-367e-442f-a37d-60632c47fe06",
+      "name": "Leonardo Souza",
+      "email": "leonardo.souza@yahoo.com.br",
+      "phone": "(45) 93751-8013",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2024-01-12T23:10:56.567Z"
+    },
+    {
+      "id": "e500eaa4-4c3f-4795-8c97-b7e682b7e160",
+      "name": "Fernanda Rodrigues",
+      "email": "fernanda.rodrigues@hotmail.com",
+      "phone": "(11) 92596-8320",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2026-07-11T15:21:54.459Z"
+    },
+    {
+      "id": "56cdcfd1-34e9-4fe4-91cb-e507345cbd6b",
+      "name": "Ingrid Teixeira",
+      "email": "ingrid.teixeira@icloud.com",
+      "phone": "(93) 99416-9372",
+      "description": "Gosta de ensinar e compartilhar conhecimento.",
+      "createdAt": "2024-11-22T10:23:44.747Z"
+    },
+    {
+      "id": "b2aee23e-89b8-4ab5-adbf-8fe885ab8725",
+      "name": "Pedro Alves",
+      "email": "pedro.alves@hotmail.com",
+      "phone": "(92) 90290-0097",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2025-05-09T03:30:29.026Z"
+    },
+    {
+      "id": "c06392c0-b806-4327-8e54-399e4a2f019f",
+      "name": "Gabriel Santos",
+      "email": "gabriel.santos@uol.com.br",
+      "phone": "(97) 93421-7487",
+      "description": "Movido por curiosidade e vontade de melhorar.",
+      "createdAt": "2026-06-26T23:18:06.833Z"
+    },
+    {
+      "id": "8b3753d1-9aff-4849-bf1a-c0f784b97215",
+      "name": "Priscila Martins",
+      "email": "priscila.martins@uol.com.br",
+      "phone": "(82) 91710-7381",
+      "description": "Trabalha com React há alguns anos e adora um bom café.",
+      "createdAt": "2024-02-25T14:43:56.453Z"
+    },
+    {
+      "id": "7c7dd574-e107-4e0e-9170-e8e664a1b226",
+      "name": "Diego Oliveira",
+      "email": "diego.oliveira@hotmail.com",
+      "phone": "(53) 96989-8328",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2024-07-11T06:57:39.819Z"
+    },
+    {
+      "id": "954ac121-753c-4615-8dfa-8d09349f9884",
+      "name": "Priscila Rocha",
+      "email": "priscila.rocha@gmail.com",
+      "phone": "(71) 92761-4631",
+      "description": "Focado em resolver problemas de forma simples.",
+      "createdAt": "2025-05-13T01:23:56.121Z"
+    },
+    {
+      "id": "407bfb12-8a06-4926-9c35-1957fbec8ed8",
+      "name": "Mariana Costa",
+      "email": "mariana.costa@outlook.com",
+      "phone": "(96) 99644-5654",
+      "description": "Fã de música, livros e projetos open source.",
+      "createdAt": "2024-11-03T15:03:10.737Z"
+    },
+    {
+      "id": "fd8cefb8-781f-4f43-bbfa-a0a92144a80c",
+      "name": "Natália Pereira",
+      "email": "natalia.pereira@uol.com.br",
+      "phone": "(35) 97230-6365",
+      "description": "Prefere simplicidade a complexidade.",
+      "createdAt": "2026-07-01T22:56:39.854Z"
+    },
+    {
+      "id": "79fec84c-2ed4-4ea1-88fd-f89cd51f23d1",
+      "name": "Wesley Ferreira",
+      "email": "wesley.ferreira@icloud.com",
+      "phone": "(84) 91333-0808",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2025-08-03T01:28:27.685Z"
+    },
+    {
+      "id": "fa6fabdf-8e64-4af4-b850-213e2589ff53",
+      "name": "Leonardo Ferreira",
+      "email": "leonardo.ferreira@uol.com.br",
+      "phone": "(38) 96379-4068",
+      "description": "Entusiasta de automação e produtividade.",
+      "createdAt": "2026-03-14T07:50:11.251Z"
+    },
+    {
+      "id": "d7fd55a5-1386-4560-a6ce-97cf39185d27",
+      "name": "Marcelo Gomes",
+      "email": "marcelo.gomes@outlook.com",
+      "phone": "(83) 97076-3198",
+      "description": "Gosta de esportes ao ar livre e tecnologia.",
+      "createdAt": "2025-08-28T12:43:40.477Z"
+    },
+    {
+      "id": "df9a88c1-f3be-49bb-916d-8398b7412d2e",
+      "name": "Nathan Martins",
+      "email": "nathan.martins@uol.com.br",
+      "phone": "(61) 93953-3795",
+      "description": "Prefere simplicidade a complexidade.",
+      "createdAt": "2024-01-24T13:56:43.264Z"
+    },
+    {
+      "id": "83923e10-0a08-45b7-815f-36ddd3f2c43d",
+      "name": "Bianca Ribeiro",
+      "email": "bianca.ribeiro@hotmail.com",
+      "phone": "(31) 92611-9581",
+      "description": "Sempre buscando aprender algo novo.",
+      "createdAt": "2025-04-26T13:09:51.475Z"
+    },
+    {
+      "id": "daf30319-a060-4032-9133-0d2054cb565e",
+      "name": "Bianca Carvalho",
+      "email": "bianca.carvalho@outlook.com",
+      "phone": "(24) 99169-4421",
+      "description": "Desenvolvedora front-end focada em acessibilidade e performance.",
+      "createdAt": "2024-05-31T18:21:17.661Z"
+    },
+    {
+      "id": "9ac45649-b1ff-43f6-a283-5021aa911a14",
+      "name": "Bianca Dias",
+      "email": "bianca.dias@yahoo.com.br",
+      "phone": "(31) 91424-1125",
+      "description": "Entusiasta de automação e produtividade.",
+      "createdAt": "2024-10-29T06:37:40.529Z"
+    },
+    {
+      "id": "ac965a56-727a-45a1-824f-41442210df72",
+      "name": "Letícia Barros",
+      "email": "leticia.barros@yahoo.com.br",
+      "phone": "(95) 98137-9062",
+      "description": "Entusiasta de automação e produtividade.",
+      "createdAt": "2026-02-09T21:25:35.098Z"
+    },
+    {
+      "id": "cfa216a1-a2af-43f4-9563-3caddc8ffdf0",
+      "name": "Rafael Cardoso",
+      "email": "rafael.cardoso@yahoo.com.br",
+      "phone": "(44) 99978-7291",
+      "description": "Focado em resolver problemas de forma simples.",
+      "createdAt": "2024-04-03T08:56:01.499Z"
+    },
+    {
+      "id": "de9214c6-3670-4495-b23a-13cf895665ad",
+      "name": "Gabriel Pinto",
+      "email": "gabriel.pinto@gmail.com",
+      "phone": "(73) 90922-0933",
+      "description": "Gosta de ensinar e compartilhar conhecimento.",
+      "createdAt": "2024-08-03T06:46:13.733Z"
+    },
+    {
+      "id": "c819f1b6-8a71-4091-afa0-984866e3b7d7",
+      "name": "Nathan Freitas",
+      "email": "nathan.freitas@uol.com.br",
+      "phone": "(17) 96946-2278",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2025-08-04T08:52:17.656Z"
+    },
+    {
+      "id": "868ef9a4-ecfa-4f74-9a40-185918ca2105",
+      "name": "Débora Ribeiro",
+      "email": "debora.ribeiro@uol.com.br",
+      "phone": "(38) 92363-3473",
+      "description": "Desenvolvedora front-end focada em acessibilidade e performance.",
+      "createdAt": "2025-11-10T15:27:11.165Z"
+    },
+    {
+      "id": "3e4a306f-45db-477c-9231-b680798bfbf1",
+      "name": "João Vieira",
+      "email": "joao.vieira@gmail.com",
+      "phone": "(53) 91325-6755",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2025-10-04T09:04:07.608Z"
+    },
+    {
+      "id": "73bf6747-5dcc-4dd8-bf1f-a6d968f341de",
+      "name": "Emerson Almeida",
+      "email": "emerson.almeida@hotmail.com",
+      "phone": "(19) 94257-3735",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2024-09-23T04:08:45.836Z"
+    },
+    {
+      "id": "231490b1-3e66-4dbb-b77e-97144dada7d1",
+      "name": "Letícia Barbosa",
+      "email": "leticia.barbosa@hotmail.com",
+      "phone": "(48) 97679-6135",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2024-08-03T21:29:50.741Z"
+    },
+    {
+      "id": "314cb6a9-0408-40f4-b7a8-186467c76c24",
+      "name": "Otávio Carvalho",
+      "email": "otavio.carvalho@yahoo.com.br",
+      "phone": "(12) 92065-9561",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2026-05-09T22:22:20.009Z"
+    },
+    {
+      "id": "1ee1855d-1035-4c89-a386-cbd06081ca80",
+      "name": "Camila Vieira",
+      "email": "camila.vieira@icloud.com",
+      "phone": "(77) 91565-6597",
+      "description": "Gosta de esportes ao ar livre e tecnologia.",
+      "createdAt": "2025-07-28T07:22:04.166Z"
+    },
+    {
+      "id": "0c1a9cce-92c9-4ef3-9032-f5ea476b8c5e",
+      "name": "Marcelo Dias",
+      "email": "marcelo.dias@hotmail.com",
+      "phone": "(96) 99361-6510",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2024-10-31T07:32:59.994Z"
+    },
+    {
+      "id": "76f8c65c-3d29-4dac-8ecc-d673a3004828",
+      "name": "Lucas Barros",
+      "email": "lucas.barros@yahoo.com.br",
+      "phone": "(11) 94432-9679",
+      "description": "Prefere simplicidade a complexidade.",
+      "createdAt": "2025-03-29T20:31:06.493Z"
+    },
+    {
+      "id": "0d00daa0-d467-467a-9636-bc447b719957",
+      "name": "Ana Almeida",
+      "email": "ana.almeida@uol.com.br",
+      "phone": "(98) 99888-8336",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2026-06-21T14:28:55.520Z"
+    },
+    {
+      "id": "aa91f793-5770-481b-af86-0be11da442e8",
+      "name": "Flávia Almeida",
+      "email": "flavia.almeida@hotmail.com",
+      "phone": "(33) 99594-8305",
+      "description": "Interessada em dados e visualização de informação.",
+      "createdAt": "2025-11-05T06:31:23.511Z"
+    },
+    {
+      "id": "e6a1ae67-4c1a-4cff-be73-08436142c9a9",
+      "name": "Bruno Rodrigues",
+      "email": "bruno.rodrigues@uol.com.br",
+      "phone": "(53) 90361-8663",
+      "description": "Fã de música, livros e projetos open source.",
+      "createdAt": "2024-01-01T09:50:36.214Z"
+    },
+    {
+      "id": "fa152bd7-c654-4389-8383-3aa291c0f445",
+      "name": "Larissa Ribeiro",
+      "email": "larissa.ribeiro@gmail.com",
+      "phone": "(93) 95870-0499",
+      "description": "Entusiasta de design de interfaces e usabilidade.",
+      "createdAt": "2025-10-20T03:06:49.640Z"
+    },
+    {
+      "id": "096d6fc8-0904-419b-bb13-d2b6a265888d",
+      "name": "Juliana Pereira",
+      "email": "juliana.pereira@gmail.com",
+      "phone": "(12) 98824-4492",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2024-05-06T18:54:08.167Z"
+    },
+    {
+      "id": "14fc254b-3807-48cf-b0fc-8fdb9d6de96d",
+      "name": "Diego Melo",
+      "email": "diego.melo@yahoo.com.br",
+      "phone": "(55) 92585-8282",
+      "description": "Curiosa por natureza, movida a desafios.",
+      "createdAt": "2026-04-22T23:28:45.014Z"
+    },
+    {
+      "id": "b2682917-5c89-46d8-bb1d-dbc931e829e0",
+      "name": "Beatriz Cavalcanti",
+      "email": "beatriz.cavalcanti@gmail.com",
+      "phone": "(95) 96148-0055",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2025-09-15T08:17:28.777Z"
+    },
+    {
+      "id": "3caeb53a-4d24-4bac-b7cd-727703076495",
+      "name": "Henrique Santos",
+      "email": "henrique.santos@hotmail.com",
+      "phone": "(53) 98046-1902",
+      "description": "Prefere simplicidade a complexidade.",
+      "createdAt": "2024-07-13T08:43:00.895Z"
+    },
+    {
+      "id": "09d0b440-5cf8-4e5a-a830-9a4a12745eaa",
+      "name": "Michele Carvalho",
+      "email": "michele.carvalho@gmail.com",
+      "phone": "(97) 92028-2789",
+      "description": "Entusiasta de design de interfaces e usabilidade.",
+      "createdAt": "2024-04-06T09:06:49.201Z"
+    },
+    {
+      "id": "eedbe391-941d-40ee-a411-f49a5e4c9b2d",
+      "name": "Nathan Ferreira",
+      "email": "nathan.ferreira@uol.com.br",
+      "phone": "(18) 96976-8908",
+      "description": "Interessada em UX e pesquisa com usuários.",
+      "createdAt": "2024-04-25T03:12:23.698Z"
+    },
+    {
+      "id": "d2740e04-0f1d-45bd-a480-a40abdb98107",
+      "name": "Ricardo Cavalcanti",
+      "email": "ricardo.cavalcanti@hotmail.com",
+      "phone": "(34) 92875-6412",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2025-09-02T20:05:42.853Z"
+    },
+    {
+      "id": "1e403abf-c11b-40a5-9c3a-e37b922e3df2",
+      "name": "Letícia Silva",
+      "email": "leticia.silva@uol.com.br",
+      "phone": "(85) 96946-1915",
+      "description": "Sempre atento aos detalhes.",
+      "createdAt": "2024-08-14T11:30:11.655Z"
+    },
+    {
+      "id": "4e92434a-0cb7-4dc6-8f48-ec34c66d1ff1",
+      "name": "Ricardo Ribeiro",
+      "email": "ricardo.ribeiro@yahoo.com.br",
+      "phone": "(54) 99919-2872",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2026-06-01T19:08:44.723Z"
+    },
+    {
+      "id": "b07b415f-13fc-4da5-a394-9106c8dba100",
+      "name": "Rafael Pinto",
+      "email": "rafael.pinto@hotmail.com",
+      "phone": "(81) 96439-1407",
+      "description": "Sempre buscando aprender algo novo.",
+      "createdAt": "2025-01-01T07:45:50.936Z"
+    },
+    {
+      "id": "43dd131a-bdf1-435a-a434-14ed2705047a",
+      "name": "Beatriz Freitas",
+      "email": "beatriz.freitas@icloud.com",
+      "phone": "(91) 98608-5920",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2024-01-02T16:43:23.798Z"
+    },
+    {
+      "id": "65b52a03-2626-4a18-a0ca-c8b8e4518517",
+      "name": "Rodrigo Gomes",
+      "email": "rodrigo.gomes@hotmail.com",
+      "phone": "(48) 96833-7668",
+      "description": "Sempre atento aos detalhes.",
+      "createdAt": "2024-07-24T11:43:16.013Z"
+    },
+    {
+      "id": "7eb7c49c-2c3e-4950-a78a-e97f07c03d7b",
+      "name": "Jonas Teixeira",
+      "email": "jonas.teixeira@uol.com.br",
+      "phone": "(86) 99025-1893",
+      "description": "Interessada em UX e pesquisa com usuários.",
+      "createdAt": "2024-02-09T12:53:39.742Z"
+    },
+    {
+      "id": "bccb6d34-a3e1-4333-aeff-3e319eb2ddca",
+      "name": "Natália Martins",
+      "email": "natalia.martins@icloud.com",
+      "phone": "(75) 94950-6893",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2025-01-07T12:35:48.285Z"
+    },
+    {
+      "id": "5a4a0e56-4392-41bb-bea7-ef4388913ddf",
+      "name": "Priscila Moraes",
+      "email": "priscila.moraes@hotmail.com",
+      "phone": "(38) 92988-8999",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2026-05-10T02:11:54.060Z"
+    },
+    {
+      "id": "6794b41c-96a0-4021-8e73-2da9869396bf",
+      "name": "Marcelo Freitas",
+      "email": "marcelo.freitas@yahoo.com.br",
+      "phone": "(84) 95965-3126",
+      "description": "Interessada em dados e visualização de informação.",
+      "createdAt": "2026-02-23T08:55:08.043Z"
+    },
+    {
+      "id": "eac9048e-b387-4eaf-b65c-ff6c15a113eb",
+      "name": "Matheus Barros",
+      "email": "matheus.barros@uol.com.br",
+      "phone": "(68) 96596-3657",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2026-05-20T04:52:38.701Z"
+    },
+    {
+      "id": "8fe1b332-87e1-4762-8ed5-82e4952d1095",
+      "name": "Rafael Moraes",
+      "email": "rafael.moraes@outlook.com",
+      "phone": "(61) 92193-0262",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2025-03-13T08:35:24.402Z"
+    },
+    {
+      "id": "4835f551-fae4-4b2d-ac7e-238df0cef09b",
+      "name": "Wesley Araújo",
+      "email": "wesley.araujo@uol.com.br",
+      "phone": "(22) 93972-8461",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2024-08-09T10:29:07.461Z"
+    },
+    {
+      "id": "92bad52e-33e5-4120-a5dc-6beb14411e77",
+      "name": "Pedro Cardoso",
+      "email": "pedro.cardoso@hotmail.com",
+      "phone": "(47) 91367-8797",
+      "description": "Entusiasta de design de interfaces e usabilidade.",
+      "createdAt": "2025-05-19T17:02:03.282Z"
+    },
+    {
+      "id": "a6f17d54-d5d2-4881-a969-7844eb1bf0a8",
+      "name": "Igor Araújo",
+      "email": "igor.araujo@yahoo.com.br",
+      "phone": "(61) 97315-1318",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2026-03-17T11:36:41.920Z"
+    },
+    {
+      "id": "4adc34d8-40b5-41d4-8d40-cc7730ce9a45",
+      "name": "Otávio Alves",
+      "email": "otavio.alves@uol.com.br",
+      "phone": "(17) 97595-2323",
+      "description": "Movido por curiosidade e vontade de melhorar.",
+      "createdAt": "2026-04-07T15:29:52.749Z"
+    },
+    {
+      "id": "d466f0b1-e8ad-47d5-bed0-cc7b7a995c83",
+      "name": "Letícia Lima",
+      "email": "leticia.lima@outlook.com",
+      "phone": "(13) 92259-7190",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2025-03-10T01:14:38.297Z"
+    },
+    {
+      "id": "2d8bf6ca-c69c-4c4f-a5d3-41ed28307cf2",
+      "name": "Gustavo Souza",
+      "email": "gustavo.souza@icloud.com",
+      "phone": "(38) 97310-9239",
+      "description": "Fã de música, livros e projetos open source.",
+      "createdAt": "2024-06-29T07:43:27.275Z"
+    },
+    {
+      "id": "7635542f-1e68-4bb5-9425-e2a8b7e1a38a",
+      "name": "Vinícius Souza",
+      "email": "vinicius.souza@yahoo.com.br",
+      "phone": "(31) 95978-9866",
+      "description": "Interessada em UX e pesquisa com usuários.",
+      "createdAt": "2025-03-02T12:00:03.427Z"
+    },
+    {
+      "id": "bd7196b5-129e-4cc6-b530-fee4553b8507",
+      "name": "Mariana Rodrigues",
+      "email": "mariana.rodrigues@outlook.com",
+      "phone": "(48) 93270-8550",
+      "description": "Gosta de esportes ao ar livre e tecnologia.",
+      "createdAt": "2025-07-29T10:25:07.921Z"
+    },
+    {
+      "id": "63b1b2a7-3128-4014-8f1b-515819c04dc6",
+      "name": "Camila Cavalcanti",
+      "email": "camila.cavalcanti@yahoo.com.br",
+      "phone": "(71) 95974-1273",
+      "description": "Sempre buscando aprender algo novo.",
+      "createdAt": "2025-07-29T03:47:05.329Z"
+    },
+    {
+      "id": "f44cd924-a41e-4205-9890-8a5140583cc5",
+      "name": "Eduarda Barbosa",
+      "email": "eduarda.barbosa@hotmail.com",
+      "phone": "(24) 92631-8251",
+      "description": "Focado em resolver problemas de forma simples.",
+      "createdAt": "2024-04-05T00:22:53.526Z"
+    },
+    {
+      "id": "b492dad9-e0e4-4bfb-8d93-3bfa0fdc9efb",
+      "name": "Otávio Ferreira",
+      "email": "otavio.ferreira@uol.com.br",
+      "phone": "(21) 90851-7354",
+      "description": "Interessada em dados e visualização de informação.",
+      "createdAt": "2026-03-11T00:57:18.926Z"
+    },
+    {
+      "id": "369af365-14d2-4bc2-9bfb-c9698f8e33bb",
+      "name": "Thiago Alves",
+      "email": "thiago.alves@uol.com.br",
+      "phone": "(15) 90273-1562",
+      "description": "Desenvolvedora front-end focada em acessibilidade e performance.",
+      "createdAt": "2026-07-09T11:22:19.204Z"
+    },
+    {
+      "id": "4207526b-17cf-47da-8b6a-f92b8cb2cb93",
+      "name": "Matheus Pereira",
+      "email": "matheus.pereira@outlook.com",
+      "phone": "(55) 96100-5723",
+      "description": "Fã de jogos, culinária e novos aprendizados.",
+      "createdAt": "2025-03-21T20:31:10.258Z"
+    },
+    {
+      "id": "f98ca00c-2eed-46d4-8d52-520d1fde9a95",
+      "name": "Camila Nascimento",
+      "email": "camila.nascimento@gmail.com",
+      "phone": "(79) 91037-4113",
+      "description": "Entusiasta de design de interfaces e usabilidade.",
+      "createdAt": "2024-04-11T11:26:34.815Z"
+    },
+    {
+      "id": "8e88898b-d070-4560-bcd2-428d580efffa",
+      "name": "Priscila Nascimento",
+      "email": "priscila.nascimento@icloud.com",
+      "phone": "(67) 93616-5894",
+      "description": "Fã de jogos, culinária e novos aprendizados.",
+      "createdAt": "2024-01-06T00:34:19.895Z"
+    },
+    {
+      "id": "515699db-4255-4769-87ef-e9c94f9e5365",
+      "name": "Lucas Barros",
+      "email": "lucas.barros@hotmail.com",
+      "phone": "(17) 96620-0238",
+      "description": "Movido por curiosidade e vontade de melhorar.",
+      "createdAt": "2024-12-08T15:18:58.235Z"
+    },
+    {
+      "id": "88b02b49-917e-41ea-b9a9-8cacd44855c6",
+      "name": "Camila Barbosa",
+      "email": "camila.barbosa@gmail.com",
+      "phone": "(71) 96742-7068",
+      "description": "Focado em resolver problemas de forma simples.",
+      "createdAt": "2025-03-14T14:21:01.169Z"
+    },
+    {
+      "id": "f2c0e197-8a86-47a5-9195-2f3dd223b8bb",
+      "name": "Helena Monteiro",
+      "email": "helena.monteiro@uol.com.br",
+      "phone": "(94) 97107-4219",
+      "description": "Movido por curiosidade e vontade de melhorar.",
+      "createdAt": "2024-08-31T04:01:20.716Z"
+    },
+    {
+      "id": "92d7eaa5-d6dd-4d32-a378-763cb9f9794d",
+      "name": "Carlos Rocha",
+      "email": "carlos.rocha@yahoo.com.br",
+      "phone": "(85) 94965-0695",
+      "description": "Trabalha com React há alguns anos e adora um bom café.",
+      "createdAt": "2026-05-26T06:59:34.563Z"
+    },
+    {
+      "id": "ac0d9785-5461-4a97-9305-eec42adbac90",
+      "name": "Isabela Carvalho",
+      "email": "isabela.carvalho@uol.com.br",
+      "phone": "(44) 93164-7335",
+      "description": "Gosta de ensinar e compartilhar conhecimento.",
+      "createdAt": "2025-12-30T16:28:14.556Z"
+    },
+    {
+      "id": "05f1e973-7659-4f5f-95c1-d9d05513ada1",
+      "name": "Vinícius Moraes",
+      "email": "vinicius.moraes@uol.com.br",
+      "phone": "(54) 90243-0360",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2025-07-20T00:15:15.466Z"
+    },
+    {
+      "id": "6b2d877e-2739-4563-b56e-193b04ab2158",
+      "name": "Letícia Alves",
+      "email": "leticia.alves@hotmail.com",
+      "phone": "(24) 95880-5577",
+      "description": "Fã de música, livros e projetos open source.",
+      "createdAt": "2024-10-22T12:48:26.862Z"
+    },
+    {
+      "id": "d96ad743-12d0-44f4-b97e-68d9c560609c",
+      "name": "Mariana Rocha",
+      "email": "mariana.rocha@icloud.com",
+      "phone": "(79) 93151-5954",
+      "description": "Interessada em dados e visualização de informação.",
+      "createdAt": "2026-03-30T07:44:20.975Z"
+    },
+    {
+      "id": "70a1d952-2632-4295-8d96-76607ff3529d",
+      "name": "Helena Barbosa",
+      "email": "helena.barbosa@icloud.com",
+      "phone": "(21) 93234-0427",
+      "description": "Interessada em UX e pesquisa com usuários.",
+      "createdAt": "2024-08-04T13:55:53.105Z"
+    },
+    {
+      "id": "d0baa506-9f0d-496e-92e2-b88cafee595e",
+      "name": "Camila Lima",
+      "email": "camila.lima@icloud.com",
+      "phone": "(95) 98749-7817",
+      "description": "Entusiasta de design de interfaces e usabilidade.",
+      "createdAt": "2025-11-28T13:15:27.677Z"
+    },
+    {
+      "id": "d882d82a-4174-47fa-9854-c0fb00230518",
+      "name": "Wesley Barbosa",
+      "email": "wesley.barbosa@outlook.com",
+      "phone": "(61) 92987-5318",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2024-05-27T22:50:55.982Z"
+    },
+    {
+      "id": "d5fa4d65-a3de-4b53-ab57-c490f4e9474a",
+      "name": "Fernanda Melo",
+      "email": "fernanda.melo@outlook.com",
+      "phone": "(64) 97379-2789",
+      "description": "Amante de viagens e boas conversas.",
+      "createdAt": "2026-04-26T07:11:14.426Z"
+    },
+    {
+      "id": "56584d9d-dd12-47fc-867b-8e4bd8b14a5c",
+      "name": "Nathan Mendes",
+      "email": "nathan.mendes@gmail.com",
+      "phone": "(81) 93044-2989",
+      "description": "Entusiasta de design de interfaces e usabilidade.",
+      "createdAt": "2024-06-29T12:50:26.803Z"
+    },
+    {
+      "id": "44ada379-bec5-4878-a7f5-ad51aa206e24",
+      "name": "Larissa Ramos",
+      "email": "larissa.ramos@hotmail.com",
+      "phone": "(83) 91602-1307",
+      "description": "Sempre buscando aprender algo novo.",
+      "createdAt": "2025-06-09T06:11:33.639Z"
+    },
+    {
+      "id": "ba4d8c65-063e-4366-93d5-5fc19aec7bf8",
+      "name": "Letícia Rocha",
+      "email": "leticia.rocha@gmail.com",
+      "phone": "(38) 91125-3664",
+      "description": "Gosta de fotografia, trilhas e tecnologia.",
+      "createdAt": "2024-03-30T15:41:28.650Z"
+    },
+    {
+      "id": "2126ddb6-56b9-4c07-8665-c4453cae63b6",
+      "name": "Vinícius Vieira",
+      "email": "vinicius.vieira@gmail.com",
+      "phone": "(27) 98726-4004",
+      "description": "Fã de jogos, culinária e novos aprendizados.",
+      "createdAt": "2025-11-24T15:38:29.639Z"
+    },
+    {
+      "id": "21cf6942-a024-4d54-98f8-2585bec9c390",
+      "name": "Amanda Nascimento",
+      "email": "amanda.nascimento@gmail.com",
+      "phone": "(99) 96900-0182",
+      "description": "Prefere simplicidade a complexidade.",
+      "createdAt": "2024-08-22T11:55:21.249Z"
+    },
+    {
+      "id": "d35ff5da-71b6-49b0-bdbc-b8638b24767e",
+      "name": "Mariana Cardoso",
+      "email": "mariana.cardoso@yahoo.com.br",
+      "phone": "(27) 99158-5982",
+      "description": "Gosta de esportes ao ar livre e tecnologia.",
+      "createdAt": "2024-08-14T08:49:29.672Z"
+    },
+    {
+      "id": "e25911ec-18ca-4a1a-b956-c5988411fd20",
+      "name": "Michele Oliveira",
+      "email": "michele.oliveira@gmail.com",
+      "phone": "(53) 94699-1170",
+      "description": "Apaixonado por código limpo e boas práticas.",
+      "createdAt": "2026-05-20T19:09:56.690Z"
+    },
+    {
+      "id": "c5e48e0e-3b75-42c8-b6f6-e0b0349530fd",
+      "name": "Leonardo Oliveira",
+      "email": "leonardo.oliveira@outlook.com",
+      "phone": "(45) 97010-9238",
+      "description": "Desenvolvedora front-end focada em acessibilidade e performance.",
+      "createdAt": "2024-08-27T16:32:19.676Z"
+    },
+    {
+      "id": "083830a4-fee6-45a5-8a63-c41f666d4a34",
+      "name": "Henrique Santos",
+      "email": "henrique.santos@gmail.com",
+      "phone": "(19) 94180-4955",
+      "description": "Interessada em dados e visualização de informação.",
+      "createdAt": "2025-09-08T14:25:42.185Z"
+    },
+    {
+      "id": "71bd8a64-c609-4ad3-9d0f-92e796976ec4",
+      "name": "Camila Silva",
+      "email": "camila.silva@gmail.com",
+      "phone": "(69) 94574-5060",
+      "description": "Gosta de ensinar e compartilhar conhecimento.",
+      "createdAt": "2024-10-15T12:24:16.806Z"
+    },
+    {
+      "id": "2c696635-15e4-4513-810c-6d8ad8e61974",
+      "name": "André Barros",
+      "email": "andre.barros@yahoo.com.br",
+      "phone": "(83) 99619-6692",
+      "description": "Focado em resolver problemas de forma simples.",
+      "createdAt": "2025-11-12T22:24:26.552Z"
+    },
+    {
+      "id": "4eff97c4-ae83-4334-9d84-87508c2f257d",
+      "name": "Alan Martins",
+      "email": "alan.martins@gmail.com",
+      "phone": "(81) 93416-9388",
+      "description": "Sempre atento aos detalhes.",
+      "createdAt": "2025-01-31T06:01:17.632Z"
+    },
+    {
+      "id": "e4f1c6f3-4341-46d0-aaee-8a3a13b0e5f5",
+      "name": "Gabriel Rodrigues",
+      "email": "gabriel.rodrigues@outlook.com",
+      "phone": "(62) 93522-7822",
+      "description": "Trabalha com produto e adora entender o usuário.",
+      "createdAt": "2025-03-02T04:15:01.847Z"
+    },
+    {
+      "id": "eb764923-dee0-46a1-8a57-8d2b46083c6e",
+      "name": "Bianca Silva",
+      "email": "bianca.silva@outlook.com",
+      "phone": "(84) 91401-9232",
+      "description": "Curiosa por natureza, movida a desafios.",
+      "createdAt": "2025-08-08T10:06:20.149Z"
+    },
+    {
+      "id": "a8733bc8-64df-44ac-a087-213c37f2c8d6",
+      "name": "Matheus Freitas",
+      "email": "matheus.freitas@outlook.com",
+      "phone": "(91) 96246-2480",
+      "description": "Prefere simplicidade a complexidade.",
+      "createdAt": "2026-07-07T01:43:01.254Z"
+    },
+    {
+      "id": "89be770d-1008-4548-baec-3a77cdaae132",
+      "name": "Mariana Nascimento",
+      "email": "mariana.nascimento@hotmail.com",
+      "phone": "(55) 95929-3177",
+      "description": "Sempre buscando aprender algo novo.",
+      "createdAt": "2024-09-30T17:16:14.733Z"
+    }
+  ]
+}
